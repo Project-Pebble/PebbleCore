@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "m3mc:block/test_block"
+    }
+  }
+}
